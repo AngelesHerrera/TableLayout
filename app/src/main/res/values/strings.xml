@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intenciones_angls</string>
+    <string name="title_w1">Menu_Opciones</string>
+    <string name="btntxt1">Ventana1</string>
+    <string name="btntxt2">Ventana2</string>
+    <string name="btntxt3">a google</string>
+    <string name="btntxt4">Salir</string>
+    <string name="title_ventana2">lista productos</string>
+</resources>
